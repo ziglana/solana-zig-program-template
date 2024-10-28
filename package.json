@@ -1,0 +1,12 @@
+{
+  "name": "solana-zig-program-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test-call": "node ./tests/call.js"
+  },
+  "devDependencies": {
+    "@solana/web3.js": "^1.95.2"
+  }
+}

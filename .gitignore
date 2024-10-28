@@ -1,2 +1,7 @@
+.env
+node_modules/
+solana-zig/
+zig-cache/
 .zig-cache/
 zig-out/
+target/
